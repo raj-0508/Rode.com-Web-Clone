@@ -16,7 +16,7 @@ This project demonstrates the creation of a responsive website using Tailwind CS
 * Customizable Components: Modular, reusable components styled with Tailwind.
 * Lightweight and Fast: Minimal custom CSS ensures excellent performance and maintainability.
 
-Time Taken: 3 hours
+Time Taken: 4 hours
 
 # Screenshot
 
