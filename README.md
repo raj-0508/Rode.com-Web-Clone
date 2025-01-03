@@ -2,7 +2,7 @@
 
 # PW Skills Clone
 
-Project: Responsive Website with Tailwind CSS.
+Project: Responsive Website with Tailwind CSS
 
 
 # Description
