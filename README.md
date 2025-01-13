@@ -5,7 +5,7 @@
 Project: Responsive Website with Tailwind CSS.
 
 
-# Description
+# Description:
 
 This project demonstrates the creation of a responsive website using Tailwind CSS, a utility-first CSS framework. The site adapts beautifully across different screen sizes and devices while maintaining high performance and design consistency.
 
